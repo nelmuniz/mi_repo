@@ -1,2 +1,2 @@
 # Mi Repo
-Mi repo
+Mi repositorio
